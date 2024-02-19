@@ -8,6 +8,7 @@ For questions, please contact the authors at vkejzlar@skidmore.edu.
 1. [BBVBMA - Linear Regression](BBVBMA_Linear_Regression.ipynb) - Notebook with the complete implementation of BBVBMA of crime data on 47 U.S. states of Vandale (1978).
 2. [BBVBMA - Logistic Regression](BBVBMA_Logistic_Regression.ipynb) - Notebook with the complete implementation of BBVBMA of heart disease data.
 3. [MCMC - Logistic Regression](MCMC_Logistic_Regression.ipynb) - Notebook with the MCMC implementation of the analysis of heart disease data.
+4. [Nuclear Mass Predictions](Mass_analysis) - VI and MCMC results for the Nuclear Mass Predictions application.
 ## Content of supplementary files:
 1. [US Crime data - full dataset](UScrime.csv) - Raw dataset of crime data on 47 U.S. states of Vandale (1978).
 2. [US Crime data - train dataset](UScrime_train.csv) - Crime data training dataset for the assesment of predictive coverage.
